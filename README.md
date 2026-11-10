@@ -1,0 +1,2 @@
+# kodejs
+contoh kode
